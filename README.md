@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I'm [Anshu Gudadhe], a passionate software developer with a strong focus on building scalable and efficient
+### I'm Anshu Gudadhe, a passionate software developer with a strong focus on building scalable and efficient Software.
 
 <!--
 **anshugudadhe/anshugudadhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
